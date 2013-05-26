@@ -1,5 +1,7 @@
 #CodeKit
 
+[![Build Status](https://travis-ci.org/boxen/puppet-codekit.png)](https://travis-ci.org/boxen/puppet-codekit)
+
 Installs [CodeKit](http://incident57.com/codekit/).
 
 ## Usage
