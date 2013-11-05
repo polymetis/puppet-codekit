@@ -3,7 +3,7 @@ require 'spec_helper'
 describe 'codekit' do
   it do
     should contain_package('CodeKit').with({
-      :source   => 'http://incident57.com/codekit/files/codekit-8376.zip',
+      :source   => 'this is a new link',
       :provider => 'compressed_app'
     })
   end
